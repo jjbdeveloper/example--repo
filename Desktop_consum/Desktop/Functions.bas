@@ -1,4 +1,4 @@
-Attribute VB_Name = "Functions"
+Attribute VB_Name = "Functions21"
 
 'Libreria paracontrol apagado PC
 Private Declare Function ExitWindowsEx& Lib "user32" (ByVal uFlags&, ByVal dwReserved&)
