@@ -285,7 +285,7 @@ End If
 
 End Sub
 
-Private Sub cmdConverttopdf_Click()
+Private Sub cmdConverttopdf_Click() 'Esta comentario es un ejemplo
 
 'Fem la crida a la funció obrir el fitxer Excel, Reportem funció utilitzada
 
